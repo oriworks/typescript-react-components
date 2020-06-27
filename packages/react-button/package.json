@@ -9,5 +9,6 @@
   "dependencies": {
     "react": "^16.13.1",
     "styled-components": "^5.1.1"
-  }
+  },
+  "gitHead": "8d83e184d470d9757d25bacf3261bc1af74796cd"
 }

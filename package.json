@@ -10,7 +10,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "yarn clean && tsc -p tsconfig.build.json",
+    "build": "tsc -p tsconfig.build.json",
     "clean": "rm -rf dist",
     "commit": "git-cz",
     "lint": "run-p -c lint:*",
