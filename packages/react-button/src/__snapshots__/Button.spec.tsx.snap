@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should match snapshot and styles for default props 1`] = `
+<div>
+  <div
+    class="sc-AxjAm fzDdBB"
+  >
+    <input
+      class="sc-AxiKw hSLCUF"
+      type="text"
+    />
+  </div>
+</div>
+`;
+
+exports[`Button should match snapshot with label 1`] = `
+<div>
+  <div
+    class="sc-AxjAm fzDdBB"
+  >
+    <label
+      class="sc-AxirZ dLEKRn"
+      for="test"
+    >
+      Name
+      :
+    </label>
+    <input
+      class="sc-AxiKw hSLCUF"
+      id="test"
+      type="text"
+    />
+  </div>
+</div>
+`;

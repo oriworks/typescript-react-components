@@ -1,0 +1,13 @@
+{
+  "name": "@oriwork-box/react-button",
+  "version": "0.0.0",
+  "description": "React button component",
+  "main": "/dist/index.ts",
+  "author": "Oriworks<geral@oriworks.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.13.1",
+    "styled-components": "^5.1.1"
+  }
+}
